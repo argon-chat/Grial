@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Grial.Benchmarks": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

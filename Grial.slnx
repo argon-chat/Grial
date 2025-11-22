@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/Grial.Benchmarks/Grial.Benchmarks.csproj" Id="e41830e8-2e56-47f5-b087-c5ac6faea8b0" />
+  <Project Path="src/Grial.Core/Grial.Core.csproj" Id="28861940-d8f7-4093-9db1-43c6135499b1" />
+  <Project Path="src/Grial.Discovery/Grial.Discovery.csproj" Id="60768419-583b-4ca1-ab8a-22df58e3585d" />
+  <Project Path="src/Grial.Service/Grial.Service.csproj" Id="7d94d5e6-760e-4726-826f-9c1d5d89e34d" />
+  <Project Path="src/Grial.Test/Grial.Test.csproj" Id="d72293d6-9e35-4b1b-a440-88e691da28d5" />
+</Solution>
